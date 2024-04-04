@@ -1,0 +1,12 @@
+.student-dashboard-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.student-dashboard-section {
+  margin-bottom: 40px;
+}
+
+.student-dashboard-section h2 {
+  margin-bottom: 20px;
+}

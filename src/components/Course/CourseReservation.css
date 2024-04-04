@@ -1,0 +1,37 @@
+.course-reservation-container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.course-reservation-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.course-reservation-list li {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.course-reservation-list li h3 {
+  margin-bottom: 10px;
+}
+
+.course-reservation-list li p {
+  margin-bottom: 0;
+}
+
+.reserve-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.reserve-button:hover {
+  background-color: #0056b3;
+}

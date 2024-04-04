@@ -1,0 +1,24 @@
+.course-search-container {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.course-search-form input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.course-search-form button {
+  width: 100%;
+  padding: 10px;
+  background-color: #ffc107;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.course-search-form button:hover {
+  background-color: #e0a800;
+}

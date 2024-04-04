@@ -1,0 +1,12 @@
+.admin-dashboard-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.admin-dashboard-section {
+  margin-bottom: 40px;
+}
+
+.admin-dashboard-section h2 {
+  margin-bottom: 20px;
+}
